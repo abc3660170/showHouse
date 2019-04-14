@@ -6,6 +6,33 @@
   </head>
   <body>
     <h1><%= title %></h1>
-    <p>no <%= title %></p>
+    <% if (!error) { %>
+      <table>
+        <thead>
+          <tr>
+            <td>主题</td>
+            <td>价格</td>
+            <td>电话</td>
+            <td>发帖次数</td>
+            <td>发帖时间</td>
+            <td>网址</td>
+          </tr>
+        </thead>
+        <tbody>
+          <% houses.forEach(function(house, i){ -%>
+            <tr>'
+              <td><%= house['housename'] %></td>
+              <td><%= house['price'] %></td>
+              <td><%= house['phone'] %></td>
+              <td><%= house['posttimes'] %></td>
+              <td><%= house['time'] %></td>
+              <td><a href="<%= house['houseurl'] %>">查看详情</a></td>
+            </tr>
+          <% }); -%>
+        </tbody>
+      </table>
+    <% } else { %>
+      <div> 出错了～～ </div>
+    <% } %>
   </body>
 </html>

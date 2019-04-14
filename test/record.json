@@ -1,1 +1,26 @@
-[{"posttimes": 1, "houseurl": "http://nj.rent.house365.com/r_80410077.html", "price": "2200.0元/月", "phone": "13951881283(江苏)", "time": "04-14 09:47:29更新", "housename": "莲花新城南苑1室1厅1卫47平米整租精装                    "}, {"posttimes": 1, "houseurl": "http://nj.rent.house365.com/r_79462672.html", "price": "2300.0元/月", "phone": "15312026230(江苏)", "time": "03-29 18:28:05更新", "housename": "莲花新城南苑1室1厅1卫50平米精装整租                    "}, {"posttimes": 1, "houseurl": "http://nj.rent.house365.com/r_80061595.html", "price": "2300.0元/月", "phone": "13770712473(江苏)", "time": "03-29 10:30:11更新", "housename": "莲花新城南苑1室1厅1卫47平米简装整租                    "}]
+[
+  {
+    "posttimes": 1,
+    "houseurl": "http://nj.rent.house365.com/r_80410077.html",
+    "price": "2200.0元/月",
+    "phone": "13951881283(江苏)",
+    "time": "04-14 09:47:29更新",
+    "housename": "莲花新城南苑1室1厅1卫47平米整租精装                    "
+  },
+  {
+    "posttimes": 1,
+    "houseurl": "http://nj.rent.house365.com/r_79462672.html",
+    "price": "2300.0元/月",
+    "phone": "15312026230(江苏)",
+    "time": "03-29 18:28:05更新",
+    "housename": "莲花新城南苑1室1厅1卫50平米精装整租                    "
+  },
+  {
+    "posttimes": 1,
+    "houseurl": "http://nj.rent.house365.com/r_80061595.html",
+    "price": "2300.0元/月",
+    "phone": "13770712473(江苏)",
+    "time": "03-29 10:30:11更新",
+    "housename": "莲花新城南苑1室1厅1卫47平米简装整租                    "
+  }
+]

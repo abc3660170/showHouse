@@ -6,3 +6,12 @@ body {
 a {
   color: #00B7FF;
 }
+
+table{
+  border: 1px solid #999999;
+}
+
+td{
+  border-bottom: 1px solid #999999;
+  border-right: 1px solid #999999;
+}
